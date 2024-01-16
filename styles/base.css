@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Julius+Sans+One&family=Montserrat:ital,wght@0,100;0,200;0,300;1,100&family=Raleway:ital,wght@0,100;0,200;1,100&display=swap');
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Montserrat', 'Bradley Hand', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+img {
+    width: 20%;
+}
+
+nav {
+    background-color: rgb(56, 72, 90);
+    padding: 15px 0;
+    align-items: normal;
+
+}
+nav a {
+    padding: 10px;
+    color: blanchedalmond;
+}
+nav a:hover {
+    color: rgb(103, 187, 19);
+}
+footer {
+    text-decoration: none;
+    
+}
